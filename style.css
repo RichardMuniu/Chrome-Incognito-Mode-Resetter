@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+img {
+    max-width: 100%;
+    height: auto%;
+}
+
+#loadingBar {
+    width: 10%;
+    height: 30px;
+    background-color: #4CAF50;
+    text-align: center; /* To center it horizontally (if you want) */
+    line-height: 30px; /* To center it vertically */
+    color: white; 
+}
+
+h3 {
+    color: rgb(136, 123, 5);
+    text-align: center;
+}
+
+.pic {
+    opacity: 1.0;
+    transition: opacity .55s ease-in-out;
+}
+
+p {
+    text-align: center;
+    font-size: 15px;
+}
+
+.toplander {
+    position: relative;
+    animation: landandappear 0.4s
+}
+
+@keyframes landandappear {
+    from { 
+        top: -300px;
+        opacity: 0} 
+    to {
+        top: 0;
+        opacity: 1
+    }
+}
