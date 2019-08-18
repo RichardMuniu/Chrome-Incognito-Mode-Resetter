@@ -10,5 +10,7 @@ Happy browsing!
 
 ### Are Developer Mode Extensions Harmful?
 
-> If you installed a Chrome extension from a reliable source, then you do not need to be concerned. On the other hand, if Chrome has suddenly started displaying Developer Mode notifications then you should be concerned. This is because developer mode extensions can include features that are not normally allowed in extensions listed in the Chrome Web Store. This include local executables and behavior that is frowned up. This behavior could include injecting advertisements, displaying popups, or tracking what sites you visit.
+> "If you installed a Chrome extension from a reliable source, then you do not need to be concerned. On the other hand, if Chrome has suddenly started displaying Developer Mode notifications then you should be concerned. This is because developer mode extensions can include features that are not normally allowed in extensions listed in the Chrome Web Store. This include local executables and behavior that is frowned up. This behavior could include injecting advertisements, displaying popups, or tracking what sites you visit."
+
+
 > Source: [Bleeping Computer](https://www.bleepingcomputer.com/virus-removal/remove-and-disable-chrome-developer-mode-extensions "How to Disable and Remove Developer Mode Extensions in Chrome")
